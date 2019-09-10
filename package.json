@@ -1,0 +1,14 @@
+{
+  "name": "naresh-neutrinos",
+  "version": "1.0.2",
+  "description": "Interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naresh A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
